@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "sarvesh",
+      "email": "sarvesh@one.com",
+      "company": "ABACD",
+      "contact": "1110000222",
+      "address": "Pune",
+      "id": 1
+    },
+    {
+      "name": "Zuru",
+      "email": "zuru@gmail.com",
+      "company": "Delhi",
+      "contact": "1112223333",
+      "address": "Mumbai",
+      "id": 4
+    },
+    {
+      "name": "Celebrity",
+      "email": "Celebrity@gmail.com",
+      "company": "Celebrity One",
+      "contact": "1110000111",
+      "address": "Delhi",
+      "id": 5
+    }
+  ]
+}
